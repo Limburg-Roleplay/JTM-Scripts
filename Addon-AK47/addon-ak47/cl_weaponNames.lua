@@ -1,0 +1,16 @@
+AddTextEntry("WEAPON_AK47", "AK47")
+
+AddTextEntry("w_ar_ak47_luxe", "AK47 Gold Camo")
+AddTextEntry("at_ak47_camo_silver", "AK47 Silver Camo")
+AddTextEntry("at_ak47_camo_redtiger", "AK47 Red Tiger Camo")
+AddTextEntry("at_ak47_camo_roze", "AK47 Roze Camo")
+AddTextEntry("w_ar_ak47_darkmatter", "AK47 Darkmatter Camo")
+AddTextEntry("w_ar_ak47_groen", "AK47 Groene Camo")
+AddTextEntry("w_ar_ak47_blauw", "AK47 Blauwe Camo")
+
+AddTextEntry("at_ak47_suppressor", "AK-47 Suppressor")
+AddTextEntry("at_ak47_flashlight", "AK-47 Flashlight")
+AddTextEntry("at_ak47_scope_1", "AK-47 Reflex Scope")
+AddTextEntry("at_ak47_clip_extended", "AK-47 Extended Mag")
+AddTextEntry("at_ak47_clip_drummag", "AK-47 Drum Mag")
+AddTextEntry("at_ak47_grip", "AK-47 Grip")

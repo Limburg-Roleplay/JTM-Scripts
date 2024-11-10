@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CWeaponComponentInfoBlob>
+    <Infos>
+		<Item type="CWeaponComponentVariantModelInfo">
+		<Name>COMPONENT_AK47_CAMO_GOLD</Name>
+		<Model>w_ar_ak47_luxe</Model>
+		<LocName>WCT_INVALID</LocName>
+		<LocDesc>WCD_INVALID</LocDesc>
+		<AttachBone />
+		<AccuracyModifier type="NULL" />
+		<DamageModifier type="NULL" />
+		<bShownOnWheel value="false" />
+		<CreateObject value="false" />
+		<HudDamage value="0" />
+		<HudSpeed value="0" />
+		<HudCapacity value="0" />
+		<HudAccuracy value="0" />
+		<HudRange value="0" />
+		<TintIndexOverride value="2"/>
+		<ExtraComponents>
+			<Item>
+				<ComponentName>COMPONENT_AK47_CLIP_DEFAULT</ComponentName>
+				<ComponentModel>w_ar_ak47_luxe_mag1</ComponentModel>
+			</Item>
+			<Item>
+				<ComponentName>COMPONENT_AK47_CLIP_EXTENDED</ComponentName>
+				<ComponentModel>w_ar_ak47_luxe_mag2</ComponentModel>
+			</Item>
+			<Item>
+				<ComponentName>COMPONENT_AK47_CLIP_DRUMMAG</ComponentName>
+				<ComponentModel>w_ar_assaultrifle_boxmag_luxe</ComponentModel>
+			</Item>
+			<Item>
+				<ComponentName>COMPONENT_AK47_GRIP</ComponentName>
+				<ComponentModel>w_at_ar_afgrip_luxe</ComponentModel>
+			</Item>
+		</ExtraComponents>	  
+		</Item>
+	</Infos>
+	<InfoBlobName></InfoBlobName>
+</CWeaponComponentInfoBlob>

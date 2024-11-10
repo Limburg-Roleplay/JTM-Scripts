@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CWeaponComponentInfoBlob>
+    <Infos>
+		<Item type="CWeaponComponentVariantModelInfo">
+		<Name>COMPONENT_AK47_CAMO_ROZE</Name>
+		<Model>w_ar_ak47_roze</Model>
+		<LocName>WCT_INVALID</LocName>
+		<LocDesc>WCD_INVALID</LocDesc>
+		<AttachBone />
+		<AccuracyModifier type="NULL" />
+		<DamageModifier type="NULL" />
+		<bShownOnWheel value="false" />
+		<CreateObject value="false" />
+		<HudDamage value="0" />
+		<HudSpeed value="0" />
+		<HudCapacity value="0" />
+		<HudAccuracy value="0" />
+		<HudRange value="0" />
+		</Item>
+	</Infos>
+	<InfoBlobName></InfoBlobName>
+</CWeaponComponentInfoBlob>
